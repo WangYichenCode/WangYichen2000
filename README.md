@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @WangYichen2000
-- 👀 I’m interested in deep learning and edge computing
-- 🌱 I’m currently learning deep learning and edge computing
+- 👋 Hi, I’m @WangYichen
+- 👀 I’m major in soft sensor modeling and deep learning
+- 🌱 I’m currently learning java and vue
 - 💞️ I’m looking to collaborate on you
 - 📫 How to reach me 
 - my QQ number:1274540748
